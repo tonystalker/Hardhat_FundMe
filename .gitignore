@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .encryptedKey.json
 node_modules
 .env
@@ -17,3 +18,8 @@ deployments
 
 # Patrick
 .notes.md
+=======
+node_modules
+constants.js
+.ptrttierrc
+>>>>>>> 89abca7 (dropped frontend)

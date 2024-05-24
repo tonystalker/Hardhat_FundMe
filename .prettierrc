@@ -1,6 +1,14 @@
 {
     "tabWidth": 4,
+<<<<<<< HEAD
     "useTabs": false,
     "semi": false,
     "singleQuote": false
 }
+=======
+    "useTabs": 
+    false,
+    "semi": false,
+    "singleQuote": false
+}
+>>>>>>> 89abca7 (dropped frontend)
